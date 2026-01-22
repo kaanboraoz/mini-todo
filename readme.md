@@ -27,6 +27,6 @@ This is a **learning and experimental project**.
 ## Running the Project
 
 ```bash
-git clone https://github.com/kaan/mini-todo.git
+git clone https://github.com/kaanboraoz/mini-todo.git
 cd mini-todo
 cargo run
